@@ -13,7 +13,7 @@ body{
     background: url('images/Homepage.png');
     width: 880px;
     height: 650px;
-   
+       margin-left: 60px;
     margin: 0 auto;
     background-size:cover;
    
@@ -22,7 +22,7 @@ body{
 .login-clean2{
    padding: 39px;
   margin-top: 70px;
-    margin-left: 20px;
+
 }
 
 
