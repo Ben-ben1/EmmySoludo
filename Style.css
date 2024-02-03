@@ -13,7 +13,7 @@ body{
     background: url('images/Homepage.png');
     width: 880px;
     height: 650px;
-       margin-left: 600px;
+       display: absolutely;
     margin: 0 auto;
     background-size:cover;
    
